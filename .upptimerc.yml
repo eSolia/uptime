@@ -24,6 +24,12 @@ sites:
     url: https://esolia.com
   - name: eSolia.co.jp Japanese Site
     url: https://esolia.co.jp
+  - name: eSolia SharePoint
+    url: https://esolia1.sharepoint.com 
+  - name: J-VAD Site
+    url: https://j-vad.jp
+  - name: J-PVAD Site
+    url: https://j-pvad.jp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
