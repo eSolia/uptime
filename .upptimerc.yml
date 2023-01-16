@@ -30,6 +30,8 @@ sites:
     url: https://j-vad.jp
   - name: J-PVAD Site
     url: https://j-pvad.jp
+  - name: NSTG Site
+    url: https://jp.nanostring.com 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
