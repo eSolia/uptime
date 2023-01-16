@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/esolia1.sharepoint.com.ico",
     "slug": "e-solia-share-point",
     "status": "down",
-    "uptime": "2.07%",
-    "uptimeDay": "2.07%",
-    "uptimeWeek": "2.07%",
-    "uptimeMonth": "2.07%",
-    "uptimeYear": "2.07%",
+    "uptime": "2.41%",
+    "uptimeDay": "2.41%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "2.41%",
+    "uptimeYear": "2.41%",
     "time": 729,
     "timeDay": 729,
     "timeWeek": 729,
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-01-16": 1
+      "2023-01-16": 2
     }
   },
   {
