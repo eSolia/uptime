@@ -23,9 +23,7 @@ sites:
   - name: eSolia.com English Site
     url: https://esolia.com
   - name: eSolia.co.jp Japanese Site
-    url: https://esolia.co.jp
-  - name: eSolia SharePoint
-    url: https://esolia1.sharepoint.com 
+    url: https://esolia.co.jp 
   - name: J-VAD Site
     url: https://j-vad.jp
   - name: J-PVAD Site
