@@ -4,19 +4,19 @@
     "url": "https://pro.dbflex.net/secure/login.aspx",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-paa-s",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 283,
     "timeDay": 244,
     "timeWeek": 280,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-01-25": 42
+      "2023-01-25": 43
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-api",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 100,
     "timeDay": 126,
     "timeWeek": 109,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-01-25": 42
+      "2023-01-25": 43
     }
   },
   {
@@ -44,9 +44,9 @@
     "url": "https://db.myriadgenetics-ops.com/secure/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/db.myriadgenetics-ops.com.ico",
     "slug": "m-sodas-cloud-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "97.13%",
+    "uptimeDay": "97.12%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
@@ -101,19 +101,17 @@
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "e-solia-screen-connect",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2286,
     "timeDay": 2397,
     "timeWeek": 2236,
     "timeMonth": 2286,
     "timeYear": 2286,
-    "dailyMinutesDown": {
-      "2023-01-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eSolia.com English Site",
