@@ -4,45 +4,49 @@
     "url": "https://pro.dbflex.net/secure/login.aspx",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-paa-s",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 294,
     "timeDay": 306,
     "timeWeek": 299,
     "timeMonth": 294,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "PROdb Cloud Database API",
     "url": "https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 94,
     "timeDay": 93,
     "timeWeek": 99,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "M-SODAS Cloud Database",
     "url": "https://db.myriadgenetics-ops.com/secure/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/db.myriadgenetics-ops.com.ico",
     "slug": "m-sodas-cloud-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 373,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "eSolia Newsletter System",
