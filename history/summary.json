@@ -4,10 +4,10 @@
     "url": "https://pro.dbflex.net/secure/login.aspx",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-paa-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 283,
@@ -16,6 +16,7 @@
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2023-01-31": 1,
       "2023-01-25": 59
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json",
     "icon": "https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico",
     "slug": "pr-odb-cloud-database-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
@@ -36,6 +37,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2023-01-31": 1,
       "2023-01-25": 58
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://db.myriadgenetics-ops.com/secure/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/db.myriadgenetics-ops.com.ico",
     "slug": "m-sodas-cloud-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
@@ -56,6 +58,7 @@
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2023-01-31": 0,
       "2023-01-25": 57
     }
   },
